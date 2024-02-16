@@ -1,4 +1,5 @@
 # Consola & Nuxt format issue
+issue: https://github.com/unjs/consola/issues/276
 
 When using Nuxt and Consola, the desired formats are not working out-of-the box. There are no colors, date-time information, tags and so on. Important for me would be at least to have date-time information in the logs. I was unable to set the reporter to FancyReporter. It seems, that a BasicReporter is used. The fancy option mentioned in the documentation is not available / working.
 
